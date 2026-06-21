@@ -3,6 +3,8 @@
 I’m excited to share my latest project, where I combined key learnings from my course with new techniques to create an interactive and insightful dashboard! 🚀
 
 
+![Dashboard](dashboard.png)
+
 🔹 Key Achievements:
 
 ✅ Data Import & Transformation: Imported data from a large text file using Power Query and set up a single connection to the master data file.
